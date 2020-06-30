@@ -1,0 +1,2803 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.15)  30 JUN 2020 22:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**JXJH.tex
+(./JXJH.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count172
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count173
+\g__pdf_backend_annotation_int=\count174
+))
+Package: ctex 2019/05/29 v2.4.16 Chinese adapter in LaTeX (CTEX)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count175
+\g__xparse_grabber_int=\count176
+\l__xparse_m_args_int=\count177
+\l__xparse_v_nesting_int=\count178
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count179
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen135
+\g__ctex_section_depth_int=\count180
+\g__ctex_font_size_int=\count181
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
+File: ctex-engine-xetex.def 2019/05/29 v2.4.16 XeLaTeX adapter (CTEX)
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2020/02/18 v3.8.2 Typesetting CJK scripts with XeLaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
+Package: xtemplate 2020-03-06 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen136
+\l__xtemplate_tmp_int=\count182
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+\l__xeCJK_tmp_int=\count183
+\l__xeCJK_tmp_box=\box47
+\l__xeCJK_tmp_dim=\dimen137
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count184
+\l__xeCJK_begin_int=\count185
+\l__xeCJK_end_int=\count186
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count187
+\c__xeCJK_CJK_node_dim=\dimen138
+\c__xeCJK_CJK-space_node_dim=\dimen139
+\c__xeCJK_default_node_dim=\dimen140
+\c__xeCJK_default-space_node_dim=\dimen141
+\c__xeCJK_CJK-widow_node_dim=\dimen142
+\c__xeCJK_normalspace_node_dim=\dimen143
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count188
+\l__xeCJK_last_bound_dim=\dimen144
+\l__xeCJK_last_kern_dim=\dimen145
+\l__xeCJK_widow_penalty_int=\count189
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2302.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen146
+\l__xeCJK_mixed_punct_width_dim=\dimen147
+\l__xeCJK_middle_punct_width_dim=\dimen148
+\l__xeCJK_fixed_margin_width_dim=\dimen149
+\l__xeCJK_mixed_margin_width_dim=\dimen150
+\l__xeCJK_middle_margin_width_dim=\dimen151
+\l__xeCJK_bound_punct_width_dim=\dimen152
+\l__xeCJK_bound_margin_width_dim=\dimen153
+\l__xeCJK_margin_minimum_dim=\dimen154
+\l__xeCJK_kerning_total_width_dim=\dimen155
+\l__xeCJK_same_align_margin_dim=\dimen156
+\l__xeCJK_different_align_margin_dim=\dimen157
+\l__xeCJK_kerning_margin_width_dim=\dimen158
+\l__xeCJK_kerning_margin_minimum_dim=\dimen159
+\l__xeCJK_bound_dim=\dimen160
+\l__xeCJK_reverse_bound_dim=\dimen161
+\l__xeCJK_margin_dim=\dimen162
+\l__xeCJK_minimum_bound_dim=\dimen163
+\l__xeCJK_kerning_margin_dim=\dimen164
+\g__xeCJK_family_int=\count190
+\l__xeCJK_fam_int=\count191
+\g__xeCJK_fam_allocation_int=\count192
+\l__xeCJK_verb_case_int=\count193
+\l__xeCJK_verb_exspace_skip=\skip55
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count194
+\l__fontspec_language_int=\count195
+\l__fontspec_strnum_int=\count196
+\l__fontspec_tmp_int=\count197
+\l__fontspec_tmpa_int=\count198
+\l__fontspec_tmpb_int=\count199
+\l__fontspec_tmpc_int=\count266
+\l__fontspec_em_int=\count267
+\l__fontspec_emdef_int=\count268
+\l__fontspec_strong_int=\count269
+\l__fontspec_strongdef_int=\count270
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2020/02/18 v3.8.2 Configuration file for xeCJK package
+))
+(/usr/local/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2020/02/18 v3.8.2 xeCJK font effect
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip56
+\UL@hook=\toks15
+\UL@height=\dimen168
+\UL@pe=\count271
+\UL@pixel=\dimen169
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen170
+)
+\l__xeCJK_space_skip=\skip57
+\c__xeCJK_ulem-begin_node_dim=\dimen171
+\c__xeCJK_null_box=\box51
+\l__xeCJK_fntef_box=\box52
+\l__xeCJK_under_symbol_box=\box53
+\c__xeCJK_filll_skip=\skip58
+)
+\ccwd=\dimen172
+\l__ctex_ccglue_skip=\skip59
+)
+\l__ctex_ziju_dim=\dimen173
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count272
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.d
+ef
+File: ctex-scheme-chinese.def 2019/05/29 v2.4.16 Chinese scheme for generic (CT
+EX)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.
+def
+File: ctex-fontset-fandol.def 2019/05/29 v2.4.16 Fandol fonts definition (CTEX)
+
+
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT:language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 550 replaced by U+FFFD.
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count273
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip60
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count274
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip61
+\skiplinenumber=\skip62
+\skiprule=\skip63
+\skiphlne=\skip64
+\skiptext=\skip65
+\skiplength=\skip66
+\algomargin=\skip67
+\skipalgocfslide=\skip68
+\algowidth=\dimen174
+\inoutsize=\dimen175
+\inoutindent=\dimen176
+\interspacetitleruled=\dimen177
+\interspacealgoruled=\dimen178
+\interspacetitleboxruled=\dimen179
+\algocf@ruledwidth=\skip69
+\algocf@inoutbox=\box54
+\algocf@inputbox=\box55
+\AlCapSkip=\skip70
+\AlCapHSkip=\skip71
+\algoskipindent=\skip72
+\algocf@nlbox=\box56
+\algocf@hangingbox=\box57
+\algocf@untilbox=\box58
+\algocf@skipuntil=\skip73
+\algocf@capbox=\box59
+\algocf@lcaptionbox=\skip74
+\algoheightruledefault=\skip75
+\algoheightrule=\skip76
+\algotitleheightruledefault=\skip77
+\algotitleheightrule=\skip78
+\c@algocfline=\count275
+\c@algocfproc=\count276
+\c@algocf=\count277
+\algocf@algoframe=\box60
+\algocf@algobox=\box61
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box62
+\extrarowheight=\dimen181
+\NC@list=\toks16
+\extratabsurround=\skip79
+\backup@length=\skip80
+\ar@cellbox=\box63
+)
+\rotheadsize=\dimen182
+\c@nlinenum=\count278
+\TeXr@lab=\toks17
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip81
+\subfigcapskip=\skip82
+\subfigcaptopadj=\dimen185
+\subfigbottomskip=\skip83
+\subfigcapmargin=\dimen186
+\subfiglabelskip=\skip84
+\c@subfigure=\count279
+\c@lofdepth=\count280
+\c@subtable=\count281
+\c@lotdepth=\count282
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip85
+\subfig@bottom=\skip86
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip87
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen187
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen188
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box64
+\strutbox@=\box65
+\big@size=\dimen189
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count288
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip17
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks23
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks24
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
+\@envbody=\toks25
+\multlinegap=\skip88
+\multlinetaggap=\skip89
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+\theorem@style=\toks27
+\theorem@@style=\toks28
+\theorembodyfont=\toks29
+\theoremnumbering=\toks30
+\theorempreskipamount=\skip90
+\theorempostskipamount=\skip91
+\theoremframepreskipamount=\skip92
+\theoremframepostskipamount=\skip93
+\theoreminframepreskipamount=\skip94
+\theoreminframepostskipamount=\skip95
+\theorem@preskip=\toks31
+\theorem@postskip=\toks32
+\theorem@framepreskip=\toks33
+\theorem@framepostskip=\toks34
+\theorem@inframepreskip=\toks35
+\theorem@inframepostskip=\toks36
+\theoremindent=\dimen196
+\theorem@indent=\dimen197
+\theoremrightindent=\dimen198
+\theorem@rightindent=\dimen199
+\theoremheaderfont=\toks37
+\theoremseparator=\toks38
+\theoremprework=\toks39
+\theorempostwork=\toks40
+\theoremsymbol=\toks41
+\qedsymbol=\toks42
+\theoremkeyword=\toks43
+\qedsymbol=\toks44
+\thm@topsep=\skip96
+\thm@topsepadd=\skip97
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `JXJH.idx'.
+
+
+Writing index file JXJH.idx
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip98
+\f@nch@O@elh=\skip99
+\f@nch@O@erh=\skip100
+\f@nch@O@olh=\skip101
+\f@nch@O@orh=\skip102
+\f@nch@O@elf=\skip103
+\f@nch@O@erf=\skip104
+\f@nch@O@olf=\skip105
+\f@nch@O@orf=\skip106
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip107
+\fb@frw=\dimen256
+\fb@frh=\dimen257
+\FrameRule=\dimen258
+\FrameSep=\dimen259
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen260
+\WF@size=\dimen261
+\c@WF@wrappedlines=\count295
+\WF@box=\box66
+\WF@everypar=\toks45
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks46
+\minrowclearance=\skip108
+)
+\rownum=\count296
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/x11nam.def
+File: x11nam.def 2016/05/11 v2.12 Predefined colors according to Unix/X11 (UK)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count297
+\Gm@cntv=\count298
+\c@Gm@tempcnt=\count299
+\Gm@bindingoffset=\dimen262
+\Gm@wd@mp=\dimen263
+\Gm@odd@mp=\dimen264
+\Gm@even@mp=\dimen265
+\Gm@layoutwidth=\dimen266
+\Gm@layoutheight=\dimen267
+\Gm@layouthoffset=\dimen268
+\Gm@layoutvoffset=\dimen269
+\Gm@dimlist=\toks47
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen270
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box67
+\beforetitleunit=\skip109
+\aftertitleunit=\skip110
+\ttl@plus=\dimen271
+\ttl@minus=\dimen272
+\ttl@toksa=\toks48
+\titlewidth=\dimen273
+\titlewidthlast=\dimen274
+\titlewidthfirst=\dimen275
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen276
+\Hy@linkcounter=\count300
+\Hy@pagecounter=\count301
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count302
+Package hyperref Info: Option `unicode' set `true' on input line 4421.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4421.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count303
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen277
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count304
+\Field@Width=\dimen278
+\Fld@charsize=\dimen279
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count305
+\c@Item=\count306
+\c@Hfootnote=\count307
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box68
+\c@Hy@AnnotLevel=\count308
+\HyField@AnnotCount=\count309
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip111
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2019/11/15 version 4.22 text color boxes
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks49
+\pgfutil@tempdima=\dimen280
+\pgfutil@tempdimb=\dimen281
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box69
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks50
+\pgfkeys@temptoks=\toks51
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks52
+))
+\pgf@x=\dimen282
+\pgf@y=\dimen283
+\pgf@xa=\dimen284
+\pgf@ya=\dimen285
+\pgf@xb=\dimen286
+\pgf@yb=\dimen287
+\pgf@xc=\dimen288
+\pgf@yc=\dimen289
+\pgf@xd=\dimen290
+\pgf@yd=\dimen291
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count312
+\c@pgf@countb=\count313
+\c@pgf@countc=\count314
+\c@pgf@countd=\count315
+\t@pgf@toka=\toks53
+\t@pgf@tokb=\toks54
+\t@pgf@tokc=\toks55
+\pgf@sys@id@count=\count316
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)
+\pgfsys@objnum=\count317
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count318
+\pgfsyssoftpath@bigbuffer@items=\count319
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen292
+\pgfmath@count=\count320
+\pgfmath@box=\box70
+\pgfmath@toks=\toks56
+\pgfmath@stack@operand=\toks57
+\pgfmath@stack@operation=\toks58
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count321
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen293
+\pgf@picmaxx=\dimen294
+\pgf@picminy=\dimen295
+\pgf@picmaxy=\dimen296
+\pgf@pathminx=\dimen297
+\pgf@pathmaxx=\dimen298
+\pgf@pathminy=\dimen299
+\pgf@pathmaxy=\dimen300
+\pgf@xx=\dimen301
+\pgf@xy=\dimen302
+\pgf@yx=\dimen303
+\pgf@yy=\dimen304
+\pgf@zx=\dimen305
+\pgf@zy=\dimen306
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen307
+\pgf@path@lasty=\dimen308
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen309
+\pgf@shorten@start@additional=\dimen310
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box71
+\pgf@hbox=\box72
+\pgf@layerbox@main=\box73
+\pgf@picture@serial@count=\count322
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen311
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen312
+\pgf@pt@y=\dimen313
+\pgf@pt@temp=\dimen314
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen315
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen316
+\pgf@sys@shading@range@num=\count323
+\pgf@shadingcount=\count324
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box74
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box75
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen317
+\pgf@nodesepend=\dimen318
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count325
+)
+\tcb@titlebox=\box76
+\tcb@upperbox=\box77
+\tcb@lowerbox=\box78
+\tcb@phantombox=\box79
+\c@tcbbreakpart=\count326
+\c@tcblayer=\count327
+\tcolorbox@number=\count328
+\tcb@temp=\box80
+\tcb@temp=\box81
+\tcb@temp=\box82
+\tcb@temp=\box83
+\tcb@out=\write5
+\tcb@record@out=\write6
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip112
+\multirow@cntb=\count329
+\multirow@dima=\skip113
+\bigstrutjot=\dimen319
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip114
+\LTright=\skip115
+\LTpre=\skip116
+\LTpost=\skip117
+\LTchunksize=\count330
+\LTcapwidth=\dimen320
+\LT@head=\box84
+\LT@firsthead=\box85
+\LT@foot=\box86
+\LT@lastfoot=\box87
+\LT@cols=\count331
+\LT@rows=\count332
+\c@LT@tables=\count333
+\c@LT@chunks=\count334
+\LT@p@ftn=\toks59
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count335
+\ST@wd=\dimen321
+\ST@rightskip=\skip118
+\ST@leftskip=\skip119
+\ST@parfillskip=\skip120
+\ST@pageleft=\dimen322
+\ST@headht=\dimen323
+\ST@tailht=\dimen324
+\ST@pagesofar=\dimen325
+\ST@pboxht=\dimen326
+\ST@lineht=\dimen327
+\ST@prevht=\dimen328
+\ST@toadd=\dimen329
+\ST@dimen=\dimen330
+\ST@pbox=\box88
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen331
+\pgffor@skip=\dimen332
+\pgffor@stack=\toks60
+\pgffor@toks=\toks61
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count336
+\pgfplotmarksize=\dimen333
+)
+\tikz@lastx=\dimen334
+\tikz@lasty=\dimen335
+\tikz@lastxsaved=\dimen336
+\tikz@lastysaved=\dimen337
+\tikz@lastmovetox=\dimen338
+\tikz@lastmovetoy=\dimen339
+\tikzleveldistance=\dimen340
+\tikzsiblingdistance=\dimen341
+\tikz@figbox=\box89
+\tikz@figbox@bg=\box90
+\tikz@tempbox=\box91
+\tikz@tempbox@bg=\box92
+\tikztreelevel=\count337
+\tikznumberofchildren=\count338
+\tikznumberofcurrentchild=\count339
+\tikz@fig@count=\count340
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count341
+\pgfmatrixcurrentcolumn=\count342
+\pgf@matrix@numberofcolumns=\count343
+)
+\tikz@expandcount=\count344
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+code.tex
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen342
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowinset=\dimen343
+\pgfarrowlength=\dimen344
+\pgfarrowwidth=\dimen345
+\pgfarrowlinewidth=\dimen346
+)
+
+Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault'
+(xeCJK)                (FandolSong-Regular(0)).
+
+
+Package fontspec Info: Could not resolve font "STZhongsong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STZhongsong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STZhongsong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'STZhongsong(0)' created for font
+(fontspec)             'STZhongsong' with options
+(fontspec)             [Script={CJK},BoldFont={STZhongsong}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STZhongsong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"STZhongsong/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+\c@mycontents=\count345
+\c@theorem=\count346
+\c@defination=\count347
+\c@example=\count348
+\c@inference=\count349
+\c@E=\count350
+\c@F=\count351
+(./JXJH.aux (./tex/C-1.aux) (./tex/C-2.aux
+
+LaTeX Warning: Label `平面与平面的夹角' multiply defined.
+
+
+LaTeX Warning: Label `两直线的夹角' multiply defined.
+
+) (./tex/C-3.aux
+
+LaTeX Warning: Label `柱坐标' multiply defined.
+
+
+LaTeX Warning: Label `空间曲线的参数方程' multiply defined.
+
+
+LaTeX Warning: Label `直线的参数方程' multiply defined.
+
+
+LaTeX Warning: Label `特殊的锥面方程' multiply defined.
+
+
+LaTeX Warning: Label `旋转曲面' multiply defined.
+
+
+LaTeX Warning: Label `特殊情况的旋转曲面方程' multiply defined.
+
+
+LaTeX Warning: Label `椭球面' multiply defined.
+
+) (./tex/C-4.aux
+
+LaTeX Warning: Label `二次曲面的一般方程' multiply defined.
+
+
+LaTeX Warning: Label `中心方程组' multiply defined.
+
+))
+\openout1 = `JXJH.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 203.
+LaTeX Font Info:    ... okay on input line 203.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 203.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box93
+Package hyperref Info: Link coloring ON on input line 203.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count352
+)
+LaTeX Info: Redefining \ref on input line 203.
+LaTeX Info: Redefining \pageref on input line 203.
+LaTeX Info: Redefining \nameref on input line 203.
+ (./JXJH.out) (./JXJH.out)
+\@outlinefile=\write7
+\openout7 = `JXJH.out'.
+
+ ABD: EveryShipout initializing macros
+File: picture/cover6.png Graphic file (type bmp)
+<picture/cover6.png>
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+09.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+09.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+209.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+209.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 209.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 209.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 209.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 209
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 209
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+]
+
+Package fontspec Info: Could not resolve font "Source Han Sans SC-Regular/I"
+(fontspec)             (it probably doesn't exist).
+
+
+Package fontspec Info: Font family 'SourceHanSansSC-Regular(0)' created for
+(fontspec)             font 'Source Han Sans SC-Regular' with options
+(fontspec)             [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC-Regular/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC-Regular/B/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC-Regular/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+ (./JXJH.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+[1
+
+]
+
+Package fontspec Info: Could not resolve font "STZhongsong/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STZhongsong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STZhongsong/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'STZhongsong(1)' created for font
+(fontspec)             'STZhongsong' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STZhongsong/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+
+Package fontspec Info: Could not resolve font "Source Han Sans SC-Light/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: Font family 'SourceHanSansSC-Light(0)' created for font
+(fontspec)             'Source Han Sans SC-Light' with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC-Light/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC-Light/B/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC-Light/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+[2] [3])
+\tf@toc=\write8
+\openout8 = `JXJH.toc'.
+
+ [4]
+\openout2 = `tex/C-1.aux'.
+
+ (./tex/C-1.tex
+Chapter 1.
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 7.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 6--7
+[][]  [] 
+ []
+
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 24 replaced by U+FFFD.
+File: picture/C-1/1.1/xl1.eps Graphic file (type eps)
+<picture/C-1/1.1/xl1.eps>
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 34.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 33--34
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 50--50
+[][]  [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 53.
+
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
+File: picture/C-1/1.1/BG.eps Graphic file (type eps)
+<picture/C-1/1.1/BG.eps>
+
+Overfull \hbox (33.12076pt too wide) in paragraph at lines 67--68
+[][] 
+ []
+
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 58--71
+[]$[]$  $[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 75--75
+[][]  [] 
+ []
+
+[1
+
+
+]
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 81 replaced by U+FFFD.
+File: picture/C-1/1.1/angle.eps Graphic file (type eps)
+<picture/C-1/1.1/angle.eps>
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 87 replaced by U+FFFD.
+File: picture/C-1/1.1/angle2.eps Graphic file (type eps)
+<picture/C-1/1.1/angle2.eps>
+
+Overfull \hbox (2.608pt too wide) in paragraph at lines 79--90
+[]$[]$  $[]$ 
+ []
+
+[2]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 92--92
+[][]  [] 
+ []
+
+
+Overfull \hbox (24.40056pt too wide) detected at line 98
+[] \OML/lmm/m/it/12 ^^K \OT1/lmr/m/n/12 = [] = []  [] \OML/lmm/m/it/12 ^^L \OT1
+/lmr/m/n/12 = [] = []  [] \OML/lmm/m/it/12 ^^M \OT1/lmr/m/n/12 = [] = []
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 111.
+
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
+File: picture/C-1/1.2/JF2.eps Graphic file (type eps)
+<picture/C-1/1.2/JF2.eps>
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+File: picture/C-1/1.2/JF1.eps Graphic file (type eps)
+<picture/C-1/1.2/JF1.eps>
+
+Overfull \hbox (7.824pt too wide) in paragraph at lines 124--132
+ [][][][] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 139.
+
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 159 replaced by U+FFFD.
+File: picture/C-1/1.2/JF3.eps Graphic file (type eps)
+<picture/C-1/1.2/JF3.eps>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 150--161
+[]$[]$  $[]$ 
+ []
+
+[3]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 177.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 194--194
+[][]  [] 
+ []
+
+
+Overfull \hbox (21.86282pt too wide) in paragraph at lines 195--196
+[]\TU/STZhongsong(0)/b/n/12 一 般 地，|  设 $[]\OML/lmm/m/it/12 ; []; []  ; []$ \TU/
+STZhongsong(0)/b/n/12 是 一 组 向 量，| $\OML/lmm/m/it/12 k[]; k[]; []  ; k[]$ \TU/ST
+Zhongsong(0)/b/n/12 是 一 组 实 数，|  称 向 量 $\OML/lmm/m/it/12 k[][]; k[][]; []  ; k[
+][]$
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 198--198
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 213.
+
+[4]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 223.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 258.
+
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
+File: picture/C-1/1.2/WJ.eps Graphic file (type eps)
+<picture/C-1/1.2/WJ.eps>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 263--278
+[]$[]$  $[]$ 
+ []
+
+[5]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 282.
+
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 327 replaced by U+FFFD.
+File: picture/C-1/1.2/HHJ.eps Graphic file (type eps)
+<picture/C-1/1.2/HHJ.eps>
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 339.
+
+[6]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 351.
+
+
+Overfull \hbox (7.04922pt too wide) in paragraph at lines 355--356
+[]\TU/STZhongsong(0)/b/n/12 设 在 仿 射 标 架 $\OT1/lmr/m/n/12 [\OML/lmm/m/it/12 O; [
+]; []; []\OT1/lmr/m/n/12 ]$ \TU/STZhongsong(0)/b/n/12 中 $[]\OML/lmm/m/it/12 ; [
+]; []$ \TU/STZhongsong(0)/b/n/12 的 坐 标 分 别 为：| $\OT1/lmr/m/n/12 (\OML/lmm/m/it/
+12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m
+/it/12 b[]; b[]; b[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/l
+mm/m/it/12 c[]; c[]; c[]\OT1/lmr/m/n/12 )$\TU/STZhongsong(0)/b/n/12 ，|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
+
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 397--397
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 402--402
+[][]  [] 
+ []
+
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 412 replaced by U+FFFD.
+File: picture/C-1/1.2/TY.eps Graphic file (type eps)
+<picture/C-1/1.2/TY.eps>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 401--416
+[]$[]$  $[]$ 
+ []
+
+[7]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 421--421
+[][]  []
+ []
+
+[8] [9]) [10]
+\openout2 = `tex/C-2.aux'.
+
+ (./tex/C-2.tex
+Chapter 2.
+
+LaTeX Warning: The counter will not be printed.
+             The label is: $\bullet $ on input line 5.
+
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 23 replaced by U+FFFD.
+File: picture/C-2/2.1/pm1.eps Graphic file (type eps)
+<picture/C-2/2.1/pm1.eps>
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
+File: picture/C-2/2.1/pm2.eps Graphic file (type eps)
+<picture/C-2/2.1/pm2.eps>
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 39 replaced by U+FFFD.
+File: picture/C-2/2.1/pm3.eps Graphic file (type eps)
+<picture/C-2/2.1/pm3.eps>
+
+Overfull \hbox (6.90169pt too wide) in paragraph at lines 23--40
+[][][][][][] 
+ []
+
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+File: picture/C-2/2.1/pm4.eps Graphic file (type eps)
+<picture/C-2/2.1/pm4.eps>
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+File: picture/C-2/2.1/pm5.eps Graphic file (type eps)
+<picture/C-2/2.1/pm5.eps>
+
+Overfull \hbox (7.824pt too wide) in paragraph at lines 48--58
+ [][][][] 
+ []
+
+[11
+
+
+
+]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 64.
+
+
+Overfull \hbox (12.48428pt too wide) in paragraph at lines 65--66
+[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
+/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
+n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
+/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 77.
+
+
+Overfull \hbox (12.48428pt too wide) in paragraph at lines 78--79
+[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
+/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
+n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
+/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 86.
+
+
+Overfull \hbox (12.48428pt too wide) in paragraph at lines 87--88
+[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
+/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
+n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
+/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 100.
+
+[12]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 123.
+
+
+Overfull \hbox (12.48428pt too wide) in paragraph at lines 124--125
+[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
+/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
+n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
+/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 163.
+
+[13]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 181--181
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 186.
+
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 211 replaced by U+FFFD.
+File: picture/C-2/2.1/DFS.eps Graphic file (type eps)
+<picture/C-2/2.1/DFS.eps>
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 219 replaced by U+FFFD.
+File: picture/C-2/2.1/XLFS.eps Graphic file (type eps)
+<picture/C-2/2.1/XLFS.eps>
+
+Overfull \hbox (7.824pt too wide) in paragraph at lines 211--220
+ [][][][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 224.
+
+[14] [15]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: $\bullet $ on input line 301.
+
+File: picture/C-2/2.3/ZX1.pdf Graphic file (type pdf)
+<use picture/C-2/2.3/ZX1.pdf>
+File: picture/C-2/2.3/ZX2.pdf Graphic file (type pdf)
+<use picture/C-2/2.3/ZX2.pdf>
+File: picture/C-2/2.3/ZX3.pdf Graphic file (type pdf)
+<use picture/C-2/2.3/ZX3.pdf>
+
+Overfull \hbox (28.688pt too wide) in paragraph at lines 316--331
+[][] [][] [][] 
+ []
+
+[16]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 336.
+
+File: picture/C-2/2.3/ZXCSFC.pdf Graphic file (type pdf)
+<use picture/C-2/2.3/ZXCSFC.pdf>
+File: picture/C-2/2.3/ZXXLSFC.pdf Graphic file (type pdf)
+<use picture/C-2/2.3/ZXXLSFC.pdf>
+
+Overfull \hbox (18.25601pt too wide) in paragraph at lines 358--366
+[][] [][] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 369.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 379.
+
+[17]
+File: picture/C-2/2.3/ZXLDSFC.pdf Graphic file (type pdf)
+<use picture/C-2/2.3/ZXLDSFC.pdf>
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 403 replaced by U+FFFD.
+File: picture/C-2/2.3/ZXYBFC.eps Graphic file (type eps)
+<picture/C-2/2.3/ZXYBFC.eps>
+
+Overfull \hbox (18.25601pt too wide) in paragraph at lines 396--404
+[][] [][] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 407.
+
+[18]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 417.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 435.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 460--460
+[][]  []
+ []
+
+[19]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 480--480
+[][]  []
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 510--510
+[][]  []
+ []
+
+[20]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 532--532
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 547--547
+[][]  [] 
+ []
+
+Missing character: There is no ‘ in font rm-lmr12!
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 557--557
+[][]  []
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 569--569
+[][]  [] 
+ []
+
+[21]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 578--578
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 601--601
+[][]  []
+ []
+
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 613 replaced by U+FFFD.
+File: picture/C-2/2.5/point.eps Graphic file (type eps)
+<picture/C-2/2.5/point.eps>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 602--616
+[]$  $[]$
+ []
+
+
+Overfull \hbox (1.6635pt too wide) detected at line 616
+\OML/lmm/m/it/12 d \OT1/lmr/m/n/12 = [] = [] = []
+ []
+
+[22]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 621--621
+[][]  []
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 629--629
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 633--633
+[][]  [] 
+ []
+
+
+Overfull \hbox (48.8201pt too wide) in paragraph at lines 634--635
+[] \TU/STZhongsong(0)/b/n/12 两 异 面 直 线 $\OML/lmm/m/it/12 l[]; l[]$ \TU/STZhongs
+ong(0)/b/n/12 分 别 过 点 $\OML/lmm/m/it/12 M[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 x[
+]; y[]; z[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; M[]\OT1/lmr/m/n/12 (\OML/lmm/m/i
+t/12 x[]; y[]\OT1/lmr/m/n/12 2\OML/lmm/m/it/12 z[]\OT1/lmr/m/n/12 )$\TU/STZhong
+song(0)/b/n/12 ，|  且 方 向 向 量 分 别 为 $[] \OT1/lmr/m/n/12 = (\OML/lmm/m/it/12 m[];
+ n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+ []
+
+
+Underfull \vbox (badness 6758) has occurred while \output is active []
+
+ [23]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 677.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 681.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 690--690
+[][]  [] 
+ []
+
+[24]
+File: picture/C-2/2.6/JJ1.pdf Graphic file (type pdf)
+<use picture/C-2/2.6/JJ1.pdf>
+File: picture/C-2/2.6/JJ2.pdf Graphic file (type pdf)
+<use picture/C-2/2.6/JJ2.pdf>
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 730 replaced by U+FFFD.
+File: picture/C-2/2.6/JJ3.eps Graphic file (type eps)
+<picture/C-2/2.6/JJ3.eps>
+
+Overfull \hbox (28.6806pt too wide) in paragraph at lines 716--731
+[][] [][] [][] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 736--736
+[][]  [] 
+ []
+
+
+Overfull \hbox (15.77686pt too wide) in paragraph at lines 737--738
+[] \TU/STZhongsong(0)/b/n/12 设 在[]直 角 坐 标 系[]中，|  两 条 直 线 $\OML/lmm/m/it/12 L[]
+; L[]$ \TU/STZhongsong(0)/b/n/12 的 方 向 向 量 分 别 为\TU/lmr/m/n/12 :$[] \OT1/lmr/m/
+n/12 = (\OML/lmm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \O
+T1/lmr/m/n/12 = (\OML/lmm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/1
+2 :$
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 754--754
+[][]  [] 
+ []
+
+[25]) [26]
+\openout2 = `tex/C-3.aux'.
+
+ (./tex/C-3.tex
+Chapter 3.
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 6.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 13--13
+[][]  [] 
+ []
+
+[27
+
+
+
+]
+Overfull \hbox (7.824pt too wide) in paragraph at lines 81--82
+ [][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 92.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 111.
+
+[28]
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 131 replaced by U+FFFD.
+File: picture/C-3/柱坐标1.eps Graphic file (type eps)
+<picture/C-3/柱坐标1.eps>
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
+File: picture/C-3/球坐标1.eps Graphic file (type eps)
+<picture/C-3/球坐标1.eps>
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 143--143
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 155.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 173.
+
+[29]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 185--185
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 201--201
+[][]  [] 
+ []
+
+[30]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 222--222
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 244--244
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 257--257
+[][]  [] 
+ []
+
+[31]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 266--266
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 281--281
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 302--302
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 314.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 328.
+
+[32]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 342.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 352--352
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 372--372
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 384--384
+[][]  [] 
+ []
+
+[33]
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 393.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 416--416
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 421.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 432--432
+[][]  []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--440
+
+ []
+
+[34]
+Overfull \hbox (7.29353pt too wide) in paragraph at lines 440--441
+[]\TU/STZhongsong(0)/b/n/12 原 理[]：|  在 柱 面 上 取 动 点 $\OML/lmm/m/it/12 M\OT1/lmr/
+m/n/12 (\OML/lmm/m/it/12 x; y; z\OT1/lmr/m/n/12 )$\TU/STZhongsong(0)/b/n/12 ，| 
+ 作 平 行 于 母 线 的 方 向 $[]$ 的 直 线 交 准 线 $\OML/lmm/m/it/12 C$ \TU/STZhongsong(0)/b/n
+/12 于 点 $\OML/lmm/m/it/12 N\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 u; v; w\OT1/lmr/m/
+n/12 )\OML/lmm/m/it/12 :$
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 457--457
+[][]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--466
+
+ []
+
+
+Overfull \hbox (47.43858pt too wide) in paragraph at lines 466--467
+[]\TU/STZhongsong(0)/b/n/12 原 理[]：|  在 柱 面 上 取 动 点 $\OML/lmm/m/it/12 M\OT1/lmr/
+m/n/12 (\OML/lmm/m/it/12 x; y; z\OT1/lmr/m/n/12 )$\TU/STZhongsong(0)/b/n/12 ，| 
+ 作 平 行 于 母 线 的 方 向 $[]$ 的 直 线 交 准 线 $\OML/lmm/m/it/12 C$ \TU/STZhongsong(0)/b/n
+/12 于 点 $\OML/lmm/m/it/12 N\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 u\OT1/lmr/m/n/12 (
+\OML/lmm/m/it/12 t\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; v\OT1/lmr/m/n/12 (\OML/lm
+m/m/it/12 t\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; w\OT1/lmr/m/n/12 (\OML/lmm/m/it/
+12 t\OT1/lmr/m/n/12 ))\OML/lmm/m/it/12 :$
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 477--477
+[][]  [] 
+ []
+
+
+Underfull \vbox (badness 1028) has occurred while \output is active []
+
+ [35]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 519--519
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 524.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 536--536
+[][]  []
+ []
+
+[36]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 560--560
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 583--583
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 604--604
+[][]  [] 
+ []
+
+[37]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 616--616
+[][]  [] 
+ []
+
+
+Overfull \hbox (32.08687pt too wide) in paragraph at lines 617--620
+\OMS/lmsy/m/n/12 ([])$ \TU/STZhongsong(0)/b/n/12 若 点 $\OML/lmm/m/it/12 M$ \TU/S
+TZhongsong(0)/b/n/12 在 曲 面 上，|  则 由 原 点 $\OML/lmm/m/it/12 O$ \TU/STZhongsong(0)
+/b/n/12 和 点 $\OML/lmm/m/it/12 M$ \TU/STZhongsong(0)/b/n/12 所 确 定 的 直 线 也 在 曲 面 
+上\TU/lmr/m/n/12 .[][][][][][] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 621--621
+[][]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--623
+
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 626--626
+[][]  [] 
+ []
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is:  on input line 629.
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 640--640
+[][]  []
+ []
+
+[38]
+Overfull \hbox (2.38684pt too wide) in paragraph at lines 658--675
+ [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 680--680
+[][]  []
+ []
+
+[39]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 717--717
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 746--746
+[][]  [] 
+ []
+
+
+LaTeX Warning: Hyper reference `抛物面' on page 40 undefined on input line 761.
+
+[40] [41] [42]
+Overfull \hbox (35.8979pt too wide) in paragraph at lines 999--1001
+\TU/STZhongsong(0)/b/n/12 其 顶 点 $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12 ^^F\OML/lmm/
+m/it/12 a []; \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 ; h\OT1/lmr/m/n/12 )$ \TU/STZho
+ngsong(0)/b/n/12 和 $\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; \OMS/lmsy/m/n/12 ^^F\O
+ML/lmm/m/it/12 b []; h\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/n/12 分 别 在 双 曲 线[
+]和 双 曲 线[]上\TU/lmr/m/n/12 . 
+ []
+
+[43] [44]
+Overfull \hbox (35.8979pt too wide) in paragraph at lines 1096--1098
+\TU/STZhongsong(0)/b/n/12 其 顶 点 $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12 ^^F\OML/lmm/
+m/it/12 a []; \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 ; h\OT1/lmr/m/n/12 )$ \TU/STZho
+ngsong(0)/b/n/12 和 $\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; \OMS/lmsy/m/n/12 ^^F\O
+ML/lmm/m/it/12 b []; h\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/n/12 分 别 在 双 曲 线[
+]和 双 曲 线[]上\TU/lmr/m/n/12 . 
+ []
+
+[45] [46] [47]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1316--1316
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1329--1329
+[][]  []
+ []
+
+
+Overfull \hbox (20.10231pt too wide) in paragraph at lines 1335--1336
+[]\TU/STZhongsong(0)/b/n/12 设 $\OML/lmm/m/it/12 M\OT1/lmr/m/n/12 (\OML/lmm/m/it
+/12 x; y; z\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/n/12 是 直 纹 面 $\OML/lmm/m/it/
+12 S$ \TU/STZhongsong(0)/b/n/12 上 的 动 点，|  过 点 $\OML/lmm/m/it/12 M$ \TU/STZhong
+song(0)/b/n/12 的 直 母 线 $\OML/lmm/m/it/12 L$ \TU/STZhongsong(0)/b/n/12 交 准 线 $\O
+ML/lmm/m/it/12 C$ \TU/STZhongsong(0)/b/n/12 与 点 $\OML/lmm/m/it/12 N []$\TU/STZh
+ongsong(0)/b/n/12 ，|
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1346--1346
+[][]  [] 
+ []
+
+[48]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1395--1395
+[][]  [] 
+ []
+
+
+Overfull \hbox (4.81068pt too wide) detected at line 1411
+[][]
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1425--1425
+[][]  [] 
+ []
+
+[49]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1452--1452
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1455--1455
+[][]  [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1456--1458
+
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 1460--1460
+[][]  [] 
+ []
+
+) [50]
+\openout2 = `tex/C-4.aux'.
+
+ (./tex/C-4.tex
+Chapter 4.
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 5--5
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 91--91
+[][]  [] 
+ []
+
+[51
+
+
+
+]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 101--101
+[][]  []
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 166--166
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 178--178
+[][]  []
+ []
+
+[52]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 194--194
+[][]  [] 
+ []
+
+
+Overfull \hbox (26.50818pt too wide) in alignment at lines 251--259
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (26.50818pt too wide) in alignment at lines 259--267
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (26.50818pt too wide) in alignment at lines 267--271
+ [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (26.50818pt too wide) in alignment at lines 271--305
+ [] [] [] [] [] 
+ []
+
+[53] [54]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 353--353
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 365--365
+[][]  [] 
+ []
+
+[55]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 368--368
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 391--391
+[][]  [] 
+ []
+
+[56]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 428--428
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 435--435
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 438--438
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 451--451
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 454--454
+[][]  [] 
+ []
+
+[57]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 461--461
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 476--476
+[][]  [] 
+ []
+
+
+Overfull \hbox (6.66168pt too wide) detected at line 531
+\OML/lmm/m/it/12 A[] [] \OT1/lmr/m/n/12 = \OML/lmm/m/it/12 ^^U []  \OMS/lmsy/m/
+n/12 ([])  [] [] \OT1/lmr/m/n/12 = 0\OML/lmm/m/it/12 :  \OMS/lmsy/m/n/12 ([])  
+[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 A[] \OMS/lmsy/m/n/12 ^^@ \OML/lmm/m/it/12 ^
+^UE\OT1/lmr/m/n/12 ) = \OMS/lmsy/m/n/12 ^^@\OML/lmm/m/it/12 ^^U[] \OT1/lmr/m/n/
+12 + \OML/lmm/m/it/12 I[]^^U[] \OMS/lmsy/m/n/12 ^^@ \OML/lmm/m/it/12 I[]^^U \OT
+1/lmr/m/n/12 + \OML/lmm/m/it/12 I[] \OT1/lmr/m/n/12 = 0\OML/lmm/m/it/12 :
+ []
+
+[58]
+Overfull \hbox (27.67386pt too wide) in paragraph at lines 532--534
+[]\TU/STZhongsong(0)/b/n/12 这 与[][][]二 次 曲 面 的 特 征 方 程[][][]是 一 致 的，|  所 以[][][
+][][][] 
+ []
+
+[59] [60]
+Overfull \hbox (22.90344pt too wide) in paragraph at lines 730--731
+[]| | \TU/STZhongsong(0)/b/n/12 二 次 无 心 曲 面：|  选 取 曲 面 的 顶 点  |（即 对 称 轴 与 曲 面 的
+ 交 点）|  作 为 新 的 坐 标 原 点 $\OML/lmm/m/it/12 O[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 
+x[]; y[]; z[]\OT1/lmr/m/n/12 )$\TU/lmr/m/n/12 . 
+ []
+
+[61]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 787--787
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 801--801
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 804--804
+[][]  [] 
+ []
+
+
+Overfull \hbox (5.216pt too wide) in paragraph at lines 807--807
+[][]  [] 
+ []
+
+[62]
+Overfull \hbox (5.216pt too wide) in paragraph at lines 841--841
+[][]  [] 
+ []
+
+[63] [64] [65]) [66]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 243.
+
+
+Package fontspec Info: Could not resolve font "STKaiti/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "STKaiti/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "STKaiti/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'STKaiti(0)' created for font 'STKaiti'
+(fontspec)             with options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"STKaiti/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+(./JXJH.ind [67
+
+
+] [68] [69] [70
+
+])
+\tf@thm=\write9
+\openout9 = `JXJH.thm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 250.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 250.
+ (./JXJH.aux (./tex/C-1.aux) (./tex/C-2.aux)
+(./tex/C-3.aux) (./tex/C-4.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 250.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 250.
+Package rerunfilecheck Info: File `JXJH.out' has not changed.
+(rerunfilecheck)             Checksum: B5DF53CD39FB5F9624F9E8A6523F1B56;10978.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 250.
+ ) 
+Here is how much of TeX's memory you used:
+ 33739 strings out of 479418
+ 704383 string characters out of 5884585
+ 1040569 words of memory out of 5000000
+ 50501 multiletter control sequences out of 15000+600000
+ 583713 words of font info for 153 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 59i,28n,96p,944b,673s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on JXJH.pdf (75 pages).

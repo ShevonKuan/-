@@ -1,0 +1,275 @@
+%模板
+\documentclass[12pt,a4paper,twoside]{book}
+
+\usepackage{ctex}
+\usepackage[linesnumbered,boxed]{algorithm2e}
+\usepackage{ulem}
+\usepackage{makecell }
+\usepackage{verbatim}
+\usepackage{enumerate}%罗列专用宏包
+\usepackage{graphicx}%插入图片的宏包
+\usepackage{subfigure} 
+\usepackage{bm}
+\usepackage{amsmath,ntheorem,lmodern}
+\usepackage{makeidx}%索引专用
+\makeindex  %添加索引
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage{framed}
+\usepackage{amsfonts}
+\usepackage{wrapfig}
+\usepackage{amssymb}%数学符号宏包
+\usepackage{textcomp}%树叶图案在这个包里
+\usepackage{bbding}%很多漂亮的图案
+\usepackage[dvipsnames, svgnames, x11names,table,xcdraw]{xcolor}%导入了所有颜色配置文件的宏包
+\usepackage{CJKfntef}
+\usepackage{emptypage}
+\usepackage{geometry}%页边距调整
+\geometry{left=2cm,right=2cm,bottom=2cm,top=2cm}
+\usepackage{titletoc}%目录页的宏包
+\usepackage{titlesec}%改变章节或标题的样式的宏包
+\usepackage[bookmarks=true,colorlinks,linkcolor=black]{hyperref}
+\usepackage{enumerate}%使用改宏包优化罗列环境
+\usepackage{tcolorbox}%box宏包
+\usepackage{multirow}
+\usepackage{longtable}%跨页表格
+\usepackage{supertabular}%跨页表格
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{arrows,arrows.meta}
+
+%各类设置
+
+%字体设置
+\setCJKmainfont[BoldFont=STZhongsong]{STZhongsong}%需要查看电脑字体查找对应字体的文件英文文件名
+\setCJKfamilyfont{song}{STZhongsong}
+\setCJKfamilyfont{kai}{STKaiti}%都是用来定义字体的(此处使用电脑自带楷书)
+\setCJKfamilyfont{hei}{Source Han Sans SC-Regular}
+\setCJKfamilyfont{heiti}{Source Han Sans SC-Medium}
+\setCJKfamilyfont{heilight}{Source Han Sans SC-Light}
+
+%章节或标题的样式
+\titleformat{\chapter}{\CJKfamily{hei}\bfseries\Huge\color{titlepurple}}{第\ \thechapter\ 章\ \quad}{0pt}{}
+\titleformat{\section}{\CJKfamily{hei}\Large\color{titlepurpleb}}{\bfseries{\thesection}\quad  }{0pt}{}
+\titleformat{\subsection}{\CJKfamily{hei}\large\color{titlepurplec}}{\bfseries{\thesubsection}\quad  }{0pt}{}
+\titlespacing{\subsection}{1.5em}{0.1em}{1em}[1em]
+%格式如下：\titlespacing*{章节名称}{左间距}{(前)行间距}{(后)行间距}[右间距(一般都没用，填0.1em即可，但不能不填)]
+\titlespacing*{\subsubsection}{2em}{3em}{1em}[1em]
+
+%目录调整
+\newcounter{mycontents}
+\newcommand{\thecontents}{\refstepcounter{mycontents} \alph{mycontents}.}
+%\titlecontents{标题名}[左间距]{标题格式}{标题标志}{无序号标题}{指引线与页码}[下间距]
+\titlecontents{chapter}
+[0cm]
+{\bf \large \vspace{0.8em} }{\contentspush{第 \thecontentslabel\ 章 \hspace*{0.8em}}}{}{\titlerule*[0.5pc]{$\cdot$}\contentspage}
+\titlecontents{section}[1.7cm]{\bf  \vspace{0.5em} }{\contentslabel{2.4em}}{\hspace*{-2.5em} \thecontents \hspace*{0.8em}}{\titlerule*[0.5pc]{$\cdot$}\contentspage}
+\titlecontents{subsection}[2.5cm]{\small \vspace{0.2em} }{\contentslabel{3em}}{}{\titlerule*[0.5pc]{$\cdot$}\contentspage}
+
+%定义颜色
+%定义某个颜色，对应颜色代号查表
+\definecolor{titlepurple}{HTML}{5758BB}%一级标题（目前：蓝紫色）
+\definecolor{titlepurpleb}{HTML}{3A006F}%二级标题（目前：深紫色）
+\definecolor{titlepurplec}{HTML}{006266}%三级标题（目前：墨绿色）
+\definecolor{tab1}{HTML}{9698ED}%表格1
+\definecolor{tab2}{HTML}{DBDCFF}%表格2
+\definecolor{dy0}{HTML}{EA7500}%小标题定义专用（目前：橙黄色）
+\definecolor{dl}{HTML}{007500}%小标题定理专用（目前：深绿色）
+\definecolor{inference}{HTML}{343300}%小标题推论专用（目前：墨绿色）
+\definecolor{ex}{HTML}{7158e2}%小标题例专用（目前：紫色）
+\definecolor{dy}{HTML}{BF0060}%夹杂在文本中的定义词的颜色1（目前：深红色）
+\definecolor{dy2}{HTML}{6C3365}%夹杂在文本中的定义词的颜色2（目前：红紫色）
+\definecolor{超链接}{HTML}{0000C6}%含超链接的文字专用色（目前：蓝紫色）
+\definecolor{文字底色}{HTML}{F8FF00}%强调的文字底色（目前：黄色）
+
+
+%定义计数器
+\newcounter{theorem}[section]
+\newcounter{defination}[section]
+\newcounter{example}[section]
+\newcounter{inference}[section]
+\newcounter{E}[section]
+\newcounter{F}[section]
+\renewcommand{\thetheorem}{定理 \thesection.\arabic{theorem}}
+\renewcommand{\thedefination}{定义 \thesection.\arabic{defination}}
+\renewcommand{\theexample}{例 \thesection.\arabic{example}}
+\renewcommand{\theinference}{推论 \thesection.\arabic{inference}}
+
+
+%定义环境
+\newcommand{\mybox}[2][]{
+	\begin{tcolorbox}[on line,
+		arc=0pt,outer arc=0pt,colback=#1!10!white,colframe=#1,
+		boxsep=0pt,left=3pt,right=3pt,top=3.5pt,bottom=3.5pt,
+		boxrule=0pt,leftrule=1.5pt]#2
+\end{tcolorbox}}
+
+%命令格式说明：正常情况的命令就是中文对应的英文名，以下有几个特殊情况进行了微调
+%1. 小标题在列表上方，使用enup+英文名;小标题在列表下方，使用enbelow+英文名
+%2. 标题间隔太大，采用t+英文名
+%3. 间距太小，用add+英文名
+%4. 在列举环境中间距太小用adden+英文名
+
+%定理类
+\newcommand{\theorem}[1][]{\vspace{1em}\noindent\refstepcounter{theorem}\label{#1} \mybox[dl]{\color{dl}\bf{\thetheorem}\hspace{1em}#1}\vspace{0.5em}  \par}
+\newcommand{\enuptheorem}[1][]{\vspace{1em}\noindent\refstepcounter{theorem}\label{#1} \mybox[dl]{\color{dl}\bf{\thetheorem}\hspace{1em}#1}\vspace*{-0.8cm}}
+\newcommand{\enbelowtheorem}[1][]{\hspace*{-1.5em}\noindent\refstepcounter{theorem}\label{#1} \mybox[dl]{\color{dl}\bf{\thetheorem}\hspace{1em}#1}  \par}
+\newcommand{\ttheorem}[1][]{\noindent\refstepcounter{theorem}\label{#1} \mybox[dl]{\color{dl}\bf{\thetheorem}\hspace{1em}#1} \vspace*{-1em}\par }
+\newcommand{\addtheorem}[1][]{\vspace{1.2em}\noindent\refstepcounter{theorem}\label{#1} \mybox[dl]{\color{dl}\bf{\thetheorem}\hspace{1em}#1}\vspace*{0.5em}  \par}
+\newcommand{\addentheorem}[1][]{\vspace{1.2em}\hspace*{-1.5em}\noindent\refstepcounter{theorem}\label{#1} \mybox[dl]{\color{dl}\bf{\thetheorem}\hspace{1em}#1}\vspace{0.5em}  \par}
+
+%推论类
+\newcommand{\inference}[1][]{\vspace{1em}\noindent\refstepcounter{inference}\label{#1} \mybox[inference]{\color{inference}\bf{\theinference}\hspace{1em}#1}\vspace{0.5em}   \par}
+\newcommand{\enupinference}[1][]{\vspace{1em}\noindent\refstepcounter{inference}\label{#1} \mybox[inference]{\color{inference}\bf{\theinference}\hspace{1em}#1}\vspace*{-0.8cm}  }
+\newcommand{\enbelowinference}[1][]{\hspace*{-1.5em}\noindent\refstepcounter{inference}\label{#1} \mybox[inference]{\color{inference}\bf{\theinference}\hspace{1em}#1}  \par}
+\newcommand{\tinference}[1][]{\noindent\refstepcounter{inference}\label{#1} \mybox[inference]{\color{inference}\bf{\theinference}\hspace{1em}#1}\vspace*{0.5em} \par }
+\newcommand{\addinference}[1][]{\vspace{1.2em}\noindent\refstepcounter{inference}\label{#1} \mybox[inference]{\color{inference}\bf{\theinference}\hspace{1em}#1}\vspace{0.5em} \par}
+\newcommand{\addeninference}[1][]{\vspace{1.2em}\hspace*{-1.5em}\noindent\refstepcounter{inference}\label{#1} \mybox[inference]{\color{inference}\bf{\theinference}\hspace{1em}#1}\vspace{0.5em} \par}
+
+%定义类
+\newcommand{\defination}[1][]{\vspace{1em}\noindent\refstepcounter{defination}\label{#1} \mybox[dy0]{\color{dy0}\bf{\thedefination}\hspace{1em}#1}\vspace{0.5em} \par}
+\newcommand{\enupdefination}[1][]{\vspace{1em}\noindent\refstepcounter{defination}\label{#1} \mybox[dy0]{\color{dy0}\bf{\thedefination}\hspace{1em}#1}\vspace*{-0.8cm}}
+\newcommand{\enbelowdefination}[1][]{\hspace*{-1.5em}\noindent\refstepcounter{defination}\label{#1} \mybox[dy0]{\color{dy0}\bf{\thedefination}\hspace{1em}#1} \par }
+\newcommand{\tdefination}[1][]{   \noindent\refstepcounter{defination}\label{#1} \mybox[dy0]{\color{dy0}\bf{\thedefination}\hspace{1em}#1}\vspace*{0.5em}  \par }
+\newcommand{\adddefination}[1][]{\vspace{1.2em}\noindent\refstepcounter{defination}\label{#1} \mybox[dy0]{\color{dy0}\bf{\thedefination}\hspace{1em}#1}\vspace{0.5em} \par}
+\newcommand{\addendefination}[1][]{\vspace{1.2em}\hspace*{-1.5em}\noindent\refstepcounter{defination}\label{#1} \mybox[dy0]{\color{dy0}\bf{\thedefination}\hspace{1em}#1}\vspace{0.5em} \par}
+
+%例类
+\newcommand{\example}[1][]{\vspace{1em}\noindent\refstepcounter{example}\label{#1} \mybox[ex]{\color{ex}\bf{\theexample}\hspace{1em}#1}\vspace{0.5em} \par }
+\newcommand{\enupexample}[1][]{\vspace{1em}\noindent\refstepcounter{example}\label{#1} \mybox[ex]{\color{ex}\bf{\theexample}\hspace{1em}#1}\vspace*{-0.8cm}}
+\newcommand{\enbelowexample}[1][]{\hspace*{-1.5em}\noindent\refstepcounter{example}\label{#1} \mybox[ex]{\color{ex}\bf{\theexample}\hspace{1em}#1} \par }
+\newcommand{\texample}[1][]{  \noindent\refstepcounter{example}\label{#1} \mybox[ex]{\color{ex}\bf{\theexample}\hspace{1em}#1} \vspace*{0.5em} \par }
+\newcommand{\addexample}[1][]{\vspace{1.2em}\noindent\refstepcounter{example}\label{#1} \mybox[ex]{\color{ex}\bf{\theexample}\hspace{1em}#1}\vspace{0.5em} \par }
+\newcommand{\addenexample}[1][]{\vspace{1.2em}\hspace*{-1.5em}\noindent\refstepcounter{example}\label{#1} \mybox[ex]{\color{ex}\bf{\theexample}\hspace{1em}#1}\vspace{0.5em} \par }
+
+%\theoremstyle{break}
+%\theoremindent0.2cm
+%\newtheorem*{theorem}{\hspace{0.2cm}\color{dl}\label{#1} \mybox[dl]{\color{dl}定理\addtocounter{A}{1} \thesection.\arabic{A}}}
+%\newtheorem*{defination}{\hspace{0.2cm}\color{dy0}\label{#1} \mybox[dy0]{\color{dy0}定义\addtocounter{B}{1} \thesection.\arabic{B}}}
+%\newtheorem*{feature}{\hspace{-0.16cm}\color{ffa725}\label{#1} \mybox[ffa725]{\color{ffa725}性质\addtocounter{C}{1} \thesection.\arabic{C}}}
+%\newtheorem*{inference}{\hspace{-0.16cm}\color{1a9850}\label{#1} \mybox[1a9850]{\color{1a9850}推论\addtocounter{D}{1} \thesection.\arabic{D}}}
+%\newtheorem*{method}{\hspace{-0.16cm}\color{6a3d9a}\label{#1} \mybox[6a3d9a]{\color{6a3d9a}方法\addtocounter{E}{1} \thesection.\arabic{E}}}
+%\newtheorem*{example}{\hspace{-0.16cm}\color{53a9ab}\label{#1} \mybox[53a9ab]{\color{53a9ab}例题\addtocounter{F}{1} \thesection.\arabic{F}}}
+
+%文章标题
+		\title{
+			\Huge{空间解析几何总结}\\
+			\quad\\
+\begin{center}
+	\includegraphics[width=16cm]{picture/cover6.png}
+	%\includegraphics[width=8cm]{cover2.png}
+	%\includegraphics[width=8cm]{cover3.png}
+	%\includegraphics[width=12cm]{cover4.png}
+\end{center}
+}
+		\author{\large{中山大学 \quad \quad \quad 易鹏}\\
+		内部版本号：V4.60.80（正式版）\\
+		by \LaTeX
+	}
+
+
+%调整间距（倍数）
+\linespread{1.5}
+
+%自定义页眉页脚---------------
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\;第\ \thechapter\ 章\quad#1\;}{}}
+\renewcommand{\sectionmark}[1]{\markright{\;\thesection\ #1\;}}
+\fancyhf{}
+%\fancyfoot[C]{\bfseries\thepage}
+\fancyhead[LO]{\small\CJKfamily{song}\rightmark}
+\fancyhead[RE]{\small\CJKfamily{song}\leftmark}
+\fancyhead[RO,LE]{\;\thepage\;}
+\fancyfoot[RO,LE]{\footnotesize\CJKfamily{heilight}{空间解析几何}}
+\fancyfoot[RE,LO]{\footnotesize\CJKfamily{heilight}Analytic Geometry of Space}
+\renewcommand{\headrulewidth}{0.4pt} % 注意不用\setlength
+%\renewcommand{\footrulewidth}{0pt}
+\fancyheadoffset[LE,RO]{0cm}
+\fancyfootoffset[LE,RO]{0cm}
+% 注意不用\setlength
+%\renewcommand{\footrulewidth}{0pt}
+
+%自定义命令
+\newcommand{\link}[1][]{\hyperref[#1] {\color{超链接}#1}}%超链接简化命令
+\newcommand{\sj}{\vspace*{-1em}}
+\newcommand{\sja}{\vspace*{-0.5em}}
+\newcommand{\jg}{\vspace*{1em}}
+\newcommand{\eqkg}{$\,$}
+\newcommand{\kg}{\hspace*{1em}}
+\newcommand{\huo}{\mbox{或}}
+
+
+%文档开始
+\begin{document}
+
+%标题及目录
+\pagenumbering{Roman}
+\clearpage {\pagestyle{empty}}
+\maketitle
+\setcounter{page}{1}
+\tableofcontents
+
+%正文部分
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+
+%第一章
+
+\include{tex/C-1}
+
+
+%第二章
+
+\include{tex/C-2}
+
+
+%第三章
+
+\include{tex/C-3}
+
+
+%第四章
+
+\include{tex/C-4}
+
+
+
+
+%打印索引—————————————
+\newpage
+\addcontentsline{toc}{chapter}{附录}
+\addcontentsline{toc}{section}{索引}
+\color{titlepurplec}
+\appendix
+\CJKfamily{kai}
+\printindex
+%———————————————
+
+\end{document}
+
+%表格模板
+%\begin{table}[h]
+%\begin{center}
+%	\begin{tabular}{|c|c|c|}
+%		\hline
+%		母线&旋转轴  &旋转曲面方程  \\
+%		\hline
+%		\multirow{2}{*}{\hspace*{1cm}$yOz$面上的曲线$C:f(y,z)=0$} \hspace*{1cm}& $z$轴 & \hspace*{1cm}$S:f(\pm  \sqrt{x^2+y^2},z)=0$  \hspace*{1cm}\\
+%		\cline{2-3}
+%		&$y$轴   & \hspace*{1cm}$S:f(y,\pm  \sqrt{x^2+z^2})=0$ \hspace*{1cm}\\
+%		\hline
+%		\multirow{2}{*}{\hspace*{1cm}$xOz$面上的曲线$C:f(x,z)=0$\hspace*{1cm}} & $z$轴 &  \hspace*{1cm} $S:f(\pm  \sqrt{x^2+y^2},z)=0$ \hspace*{1cm}\\
+%		\cline{2-3}
+%		& $x$轴 &\hspace*{1cm} $S:f(x,\pm  \sqrt{y^2+z^2})=0$  \hspace*{1cm} \\
+%		\hline
+%		\multirow{2}{*}{\hspace*{1cm}$xOy$面上的曲线$C:f(x,y)=0$\hspace*{1cm}} & $y$轴 &  \hspace*{1cm} $S:f(\pm  \sqrt{x^2+z^2},y)=0$ \hspace*{1cm}\\
+%		\cline{2-3}
+%		& $x$轴 & \hspace*{1cm} $S:f(x,\pm  \sqrt{y^2+z^2})=0$  \hspace*{1cm} \\
+%		\hline
+%	\end{tabular}
+%\end{center}
+%\caption{母线在坐标平面内、旋转轴为坐标轴的旋转曲面方程}
+%\label{特殊情况的旋转曲面方程}
+%\end{table}
